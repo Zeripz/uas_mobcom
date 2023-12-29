@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "664058133246",
+    "firebase_url": "https://mobcomuas-d745c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mobcomuas-d745c",
+    "storage_bucket": "mobcomuas-d745c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664058133246:android:bd6de1936d5baa6fc783af",
+        "android_client_info": {
+          "package_name": "com.example.uas_mobcom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD--q-O0-eJHOFhgyfWD0I6gkvEWnPvAgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
